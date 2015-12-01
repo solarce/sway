@@ -25,4 +25,4 @@ arch:
 
 script:
   - export ARCH_TRAVIS_ARCH_ISO=$(date +%Y.%m).01
-  - "curl -s https://raw.githubusercontent.com/mikkeloscar/arch-travis/master/arch-travis.sh | bash -x"
+  - "curl -s https://raw.githubusercontent.com/solarce/arch-travis/master/arch-travis.sh | bash -x"
