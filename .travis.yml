@@ -1,7 +1,7 @@
 sudo: required
 
 env:
-  - ARCH_TRAVIS_ARCH_ISO=latest  
+  - ARCH_TRAVIS_ARCH_ISO=2015.12.01
 
 arch:
   packages:
