@@ -1,5 +1,8 @@
 sudo: required
 
+env:
+  - ARCH_TRAVIS_ARCH_ISO=latest  
+
 arch:
   packages:
     - cmake
